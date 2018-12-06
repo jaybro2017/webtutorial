@@ -1,0 +1,17 @@
+filename, language, SCSS, comment, blank, total
+abstracts\_functions.scss, SCSS, 0, 0, 1, 1
+abstracts\_mixins.scss, SCSS, 7, 0, 0, 7
+abstracts\_variables.scss, SCSS, 16, 3, 7, 26
+base\_animations.scss, SCSS, 36, 0, 2, 38
+base\_base.scss, SCSS, 11, 1, 2, 14
+base\_typography.scss, SCSS, 55, 1, 10, 66
+base\_utilities.scss, SCSS, 18, 0, 0, 18
+components\_button.scss, SCSS, 77, 0, 13, 90
+components\_card.scss, SCSS, 128, 3, 35, 166
+components\_composition.scss, SCSS, 33, 0, 5, 38
+components\_feature-box.scss, SCSS, 21, 0, 3, 24
+layout\_grid.scss, SCSS, 32, 2, 17, 51
+layout\_header.scss, SCSS, 28, 0, 8, 36
+main.scss, SCSS, 14, 0, 18, 32
+pages\_home.scss, SCSS, 24, 1, 4, 29
+Total, -, 500, 11, 125, 636
